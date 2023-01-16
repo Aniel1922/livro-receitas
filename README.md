@@ -2,4 +2,5 @@
 
 Olá! Bem vindo ao meu livro de receitas.
 
-- Lasanha à bolonhesa
+- Lasanha à bolonhes
+- Pavê
